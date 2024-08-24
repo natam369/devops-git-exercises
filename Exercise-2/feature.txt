@@ -1,0 +1,9 @@
+
+objective 
+implement a Countinuous deployment
+discripation
+in this aproch we can maintain the two production envernoment
+setup infastructure
+develop CI/CD pipeline
+blue green development process
+
