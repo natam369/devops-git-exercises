@@ -1,0 +1,15 @@
+OBJECTIVE
+implement a countinuous deployment (CD) pipeline
+DESCRIPATION
+In this approach,we maintain two identical production environment blue and green
+steps to implements
+1 setup infrastructure 
+2 Develop CI/CD pipeline
+3 Blue-Green Deployment process:
+4 Automate Rollbacks
+5 Post-Deployment Clean-up
+6 documentation and Alerts
+BENEFITS
+TOOLS AND TECHNOLOGIES
+
+
